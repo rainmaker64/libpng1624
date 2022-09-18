@@ -1,0 +1,5 @@
+bin
+intermediate
+
+*.log
+gapat.xcodeproj/xcuserdata

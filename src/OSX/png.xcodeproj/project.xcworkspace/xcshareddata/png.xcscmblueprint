@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C72E4CE0E090C3564CC293740442F780AFC983E7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C72E4CE0E090C3564CC293740442F780AFC983E7" : 0,
+    "2F1FBDB70EB654C302BDD10CAEF5A740CB067EC5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "17776AEE-D838-4CA5-B45B-2B13A8EE27A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C72E4CE0E090C3564CC293740442F780AFC983E7" : "afpcomponents\/",
+    "2F1FBDB70EB654C302BDD10CAEF5A740CB067EC5" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "png",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "libpng\/OSX\/png.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git-lab-hq.agroup.dot.corp:modules-windows\/gapat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F1FBDB70EB654C302BDD10CAEF5A740CB067EC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git-lab-hq.agroup.dot.corp:modules-windows\/afpcomponents.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C72E4CE0E090C3564CC293740442F780AFC983E7"
+    }
+  ]
+}
